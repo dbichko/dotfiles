@@ -1,0 +1,5 @@
+gtk-application-prefer-dark-them = true
+gtk-menu-popup-delay = 0
+gtk-button-images = 0
+gtk-menu-images = 0
+
