@@ -1,0 +1,5 @@
+[user]
+	email = dbichko@gmail.com
+	name = Dmitri Bichko
+[credential]
+	helper = cache
