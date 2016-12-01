@@ -3,3 +3,11 @@ gtk-menu-popup-delay = 0
 gtk-button-images = 0
 gtk-menu-images = 0
 
+gtk-theme-name = "Arc-Dark"
+gtk-icon-theme-name = "Arc"
+gtk-font-name = "DjaVu Sans 10"
+style "user-font"
+{
+	font_name="DejaVu Sans 10"
+}
+widget_class "*" style "user-font"

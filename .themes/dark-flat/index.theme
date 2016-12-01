@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=dark-flat
+Type=X-GNOME-Metatheme
+Comment=
+
+[X-GNOME-Metatheme]
+GtkTheme=Arc-Dark
+MetacityTheme=Arc-Dark
+IconTheme=Arc
+GtkColorScheme=menu_bg: #383c4a
+CursorTheme=mate
+CursorSize=24
+NotificationTheme=slider
+BackgroundImage=/home/bichkd/.themes/wallhaven-45881.png

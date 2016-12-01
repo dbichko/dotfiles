@@ -4,6 +4,7 @@ abbr pacq 'pacman -Q'
 abbr pacs 'pacman -Ss'
 
 abbr cn 'sudo networkctl'
+abbr cj 'journalctl'
 abbr cs 'sudo systemctl'
 abbr css 'sudo systemctl status'
 abbr csr 'sudo systemctl restart'
