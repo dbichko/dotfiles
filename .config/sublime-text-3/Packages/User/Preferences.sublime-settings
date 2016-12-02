@@ -2,8 +2,8 @@
 	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
-	"font_face": "DejaVu Sans Mono",
-	"font_size": 10,
+	"font_face": "Lucida Console",
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,6 +11,6 @@
 	"margin": 0,
 	"tab_size": 2,
 	"theme": "Boxy Tomorrow.sublime-theme",
-  "theme_font_md": true,
+	"theme_font_md": false,
 	"translate_tabs_to_spaces": true
 }
