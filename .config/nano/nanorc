@@ -1,0 +1,3 @@
+set mouse
+include "/usr/share/nano/*.nanorc"
+include "~/.config/nano/fish.nanorc"
