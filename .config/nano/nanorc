@@ -1,3 +1,5 @@
-set mouse
+set nowrap
+unset autoindent
+
 include "/usr/share/nano/*.nanorc"
-include "~/.config/nano/fish.nanorc"
+include "~/.config/nano/*.nanorc"
