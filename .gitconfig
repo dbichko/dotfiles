@@ -1,5 +1,7 @@
 [user]
-	email = dbichko@gmail.com
+	email = dmitri.bichko@pfizer.com
 	name = Dmitri Bichko
 [credential]
 	helper = cache
+[core]
+	editor = nano
