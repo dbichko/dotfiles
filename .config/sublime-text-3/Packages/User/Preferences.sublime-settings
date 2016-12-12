@@ -12,5 +12,6 @@
 	"tab_size": 2,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_font_md": false,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+  "auto_complete_commit_on_tab": true
 }
